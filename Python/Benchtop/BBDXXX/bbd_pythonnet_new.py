@@ -5,6 +5,12 @@ Date of Last Modification on Github: 2022-08-11
 Python Version Used: python3
 Kinesis Version Tested: 1.14.34
 
+Modified by: cat
+Date of Modification: 3/14/2025
+
+Adds trigger settings to the example code.
+
+
 """
 import os
 import time
