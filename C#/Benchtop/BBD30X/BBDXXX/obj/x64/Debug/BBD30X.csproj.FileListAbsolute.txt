@@ -1,0 +1,15 @@
+C:\Users\eedm\Documents\GitHub\Motion_Control_Examples\C#\Benchtop\BBD30X\BBDXXX\bin\x64\Debug\BBDXXX.exe.config
+C:\Users\eedm\Documents\GitHub\Motion_Control_Examples\C#\Benchtop\BBD30X\BBDXXX\bin\x64\Debug\BBDXXX.exe
+C:\Users\eedm\Documents\GitHub\Motion_Control_Examples\C#\Benchtop\BBD30X\BBDXXX\bin\x64\Debug\BBDXXX.pdb
+C:\Users\eedm\Documents\GitHub\Motion_Control_Examples\C#\Benchtop\BBD30X\BBDXXX\bin\x64\Debug\Thorlabs.MotionControl.Benchtop.BrushlessMotorCLI.dll
+C:\Users\eedm\Documents\GitHub\Motion_Control_Examples\C#\Benchtop\BBD30X\BBDXXX\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\eedm\Documents\GitHub\Motion_Control_Examples\C#\Benchtop\BBD30X\BBDXXX\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\eedm\Documents\GitHub\Motion_Control_Examples\C#\Benchtop\BBD30X\BBDXXX\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\eedm\Documents\GitHub\Motion_Control_Examples\C#\Benchtop\BBD30X\BBDXXX\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\eedm\Documents\GitHub\Motion_Control_Examples\C#\Benchtop\BBD30X\BBDXXX\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\eedm\Documents\GitHub\Motion_Control_Examples\C#\Benchtop\BBD30X\BBDXXX\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\eedm\Documents\GitHub\Motion_Control_Examples\C#\Benchtop\BBD30X\BBDXXX\obj\x64\Debug\BBD30X.csproj.AssemblyReference.cache
+C:\Users\eedm\Documents\GitHub\Motion_Control_Examples\C#\Benchtop\BBD30X\BBDXXX\obj\x64\Debug\BBD30X.csproj.CoreCompileInputs.cache
+C:\Users\eedm\Documents\GitHub\Motion_Control_Examples\C#\Benchtop\BBD30X\BBDXXX\obj\x64\Debug\BBD30X.csproj.CopyComplete
+C:\Users\eedm\Documents\GitHub\Motion_Control_Examples\C#\Benchtop\BBD30X\BBDXXX\obj\x64\Debug\BBDXXX.exe
+C:\Users\eedm\Documents\GitHub\Motion_Control_Examples\C#\Benchtop\BBD30X\BBDXXX\obj\x64\Debug\BBDXXX.pdb

@@ -31,7 +31,7 @@ public class Program
 
         // Serial number for Benchtop Brushless Motor (Example)
         // Change this line to match your device
-        string serialNo = "103000001";
+        string serialNo = "73117294";
 
         try
         {
@@ -83,7 +83,7 @@ public class Program
         }
 
         // Get channel 1
-        Brushless30XMotorChannel channel = device.GetChannel(1) as Brushless30XMotorChannel;
+        Brushless20XMotorChannel channel = device.GetChannel(1) as Brushless20XMotorChannel;
         if (channel == null)
         {
             Console.WriteLine("channel 1 is not a BenchtopBrushlessMotor");
@@ -137,16 +137,16 @@ public class Program
             return;
         }
 
-        // Get and Set Triggers
-        TriggerIOConfigParameters trigIOParams = channel.GetTriggerIOConfigParameters();
-        trigIOParams.TriggerOutMode = TriggerOutModeType.TrigOutput_AtPositionFwd;
-        trigIOParams.StartPositionFwd = 0.0m; // 0mm start
-        trigIOParams.IntervalFwd = 0.1m; // 0.1mm intervals
+        //// Get and Set Triggers
+        //TriggerIOConfigParameters trigIOParams = channel.GetTriggerIOConfigParameters();
+        //trigIOParams.TriggerOutMode = TriggerOutModeType.TrigOutput_AtPositionFwd;
+        //trigIOParams.StartPositionFwd = 0.0m; // 0mm start
+        //trigIOParams.IntervalFwd = 0.1m; // 0.1mm intervals
 
-        channel.SetTriggerIOConfigParams(trigIOParams);
-        Thread.Sleep(200);
+        //channel.SetTriggerIOConfigParams(trigIOParams);
+        //Thread.Sleep(200);
 
-        int position = 50;
+        int position = 150;
         int velocity = 10;
 
         // If position is set
