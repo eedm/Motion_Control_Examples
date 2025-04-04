@@ -63,8 +63,11 @@ def main():
         device_settings = channel.MotorDeviceSettings
 
         TriggerSettings = device_settings.HardwareTriggering
-        t = TriggerSettings.get_OutputTrigger()
-        TriggerSettings.OutputTrigger = t.MaxVelocityHI
+        t_out = TriggerSettings.get_OutputTrigger()
+        TriggerSettings.OutputTrigger = t_out.MaxVelocityHI
+        t_in= TriggerSettings.get_InputTrigger()
+        TriggerSettings.InputTrigger = t_in.RelativeMoveLH
+        t_in.MoveRelativeDistance = 2
 
 
         #motor_config.UpdateCurrentConfiguration()
